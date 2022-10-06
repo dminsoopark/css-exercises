@@ -18,9 +18,8 @@ body {
   background: #e3f4ff;
 }
 
-.content .button-container {
+.button-container {
   background: #e3f4ff;
-  display:block;
 }
 
 button {
