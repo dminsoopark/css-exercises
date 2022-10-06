@@ -20,7 +20,7 @@ body {
 
 .button-container {
   background: #e3f4ff;
-  text-align: center;
+  justify-content: center;
   padding: auto;
 }
 
