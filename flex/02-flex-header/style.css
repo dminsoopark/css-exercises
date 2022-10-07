@@ -3,10 +3,7 @@
   background: papayawhip;
   display: flex;
   justify-content: space-between;
-}
-
-.left-links ul {
-  align-items: flex-start;
+  flex-direction: row;
 }
 
 .logo {
