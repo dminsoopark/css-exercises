@@ -2,11 +2,7 @@
   font-family: monospace;
   background: papayawhip;
   display: flex;
-  
-}
-
-.header .left-links{
-  flex-flow: row nowrap;
+  justify-content: space-between;
 }
 
 .logo {
