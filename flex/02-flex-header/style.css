@@ -3,6 +3,9 @@
   background: papayawhip;
   display: flex;
   justify-content: space-between;
+}
+
+.left-links {
   flex: 1;
 }
 
