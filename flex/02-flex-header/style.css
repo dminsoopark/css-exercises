@@ -5,7 +5,7 @@
   justify-content: space-between;
 }
 
-.left-links {
+.left-links ul {
   align-items: flex-start;
 }
 
