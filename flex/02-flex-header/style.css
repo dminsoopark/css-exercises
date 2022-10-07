@@ -2,6 +2,10 @@
   font-family: monospace;
   background: papayawhip;
   display: flex;
+  
+}
+
+.left-links{
   flex-flow: row nowrap;
 }
 
