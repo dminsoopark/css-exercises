@@ -54,6 +54,7 @@ a {
 .right-side {
   display: flex;
   justify-content: flex-end;
+  flex-flow: row-reverse nowrap;
 }
 
 ul {
