@@ -36,6 +36,7 @@ img {
   flex-flow: column wrap;
   justify-content: center;
   align-items: center;
+  flex: 0 0 200px;
 }
 
 .pepper {
@@ -43,6 +44,7 @@ img {
   flex-flow: column wrap;
   justify-content: center;
   align-items: center;
+  flex: 0 0 200px;
 }
 
 .saffron {
@@ -50,6 +52,7 @@ img {
   flex-flow: column wrap;
   justify-content: center;
   align-items: center;
+  flex: 0 0 200px;
 }
 
 /* do not edit this footer */
