@@ -49,6 +49,7 @@ a {
 .left-side {
   display: flex;
   justify-content: flex-start;
+  gap: 16px;
 }
 
 ul {
