@@ -51,6 +51,11 @@ a {
   justify-content: flex-start;
 }
 
+.right-side {
+  display: flex;
+  justify-content: flex-end;
+}
+
 ul {
   list-style-type: none;
   display: flex;
