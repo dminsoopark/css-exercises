@@ -26,6 +26,8 @@ body {
 .top {
   display: flex;
   justify-content: space-between;
+  font-weight: 700;
+  align-items: flex-start;
 }
 
 .icon {
@@ -37,7 +39,7 @@ body {
   height: 42px;
   border-radius: 50%;
   display: flex;
-  align-items: center;
+  align-items: flex-end;
   justify-content: center;
 }
 
