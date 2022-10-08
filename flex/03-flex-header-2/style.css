@@ -15,6 +15,7 @@ body {
   display: flex;
   justify-content: space-between;
   padding: 16px;
+  align-items: center;
 }
 
 .profile-image {
@@ -61,4 +62,6 @@ ul {
 .right-side {
   display: flex;
   flex-direction: row-reverse nowrap;
+  gap: 16px;
+  
 }
