@@ -20,7 +20,6 @@ img {
   flex-flow: row nowrap;
   justify-content: space-around;
   align-items: center;
-  width: 200px;
 }
 
 .barberry {
