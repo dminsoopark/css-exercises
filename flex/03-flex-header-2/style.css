@@ -51,12 +51,6 @@ a {
   justify-content: flex-start;
 }
 
-.right-side {
-  display: flex;
-  justify-content: flex-end;
-  flex-flow: row-reverse nowrap;
-}
-
 ul {
   list-style-type: none;
   display: flex;
