@@ -21,6 +21,7 @@ img {
   justify-content: space-around;
   align-items: center;
   text-align: center;
+  gap: 52px;
 }
 
 .barberry {
