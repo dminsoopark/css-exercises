@@ -7,9 +7,6 @@
   padding: 5px;
 }
 
-.left-links {
-  align-items: flex-start;
-}
 .logo {
   font-size: 48px;
   font-weight: 900;
@@ -24,6 +21,7 @@ ul {
   display: flex;
   flex-direction: row;
   gap: 10px;
+  margin-left: 0px;
 }
 
 a {
