@@ -58,7 +58,7 @@ ul {
   flex-direction: row;
   gap: 16px;
   justify-content: flex-start;
-  padding: 16px;
+  padding-left: 16px;
 }
 
 .right-side {
