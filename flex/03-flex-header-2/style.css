@@ -57,3 +57,8 @@ ul {
   flex-direction: row;
   gap: 16px;
 }
+
+.right-side {
+  display: flex;
+  flex-direction: row-reverse nowrap;
+}
