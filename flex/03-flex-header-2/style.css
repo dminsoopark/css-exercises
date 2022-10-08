@@ -46,7 +46,7 @@ a {
   color: rebeccapurple;
 }
 
-.left-links {
+.left-side {
   display: flex;
   justify-content: flex-start;
 }
