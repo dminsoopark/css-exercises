@@ -50,6 +50,7 @@ a {
 .left-side {
   display: flex;
   justify-content: flex-start;
+  flex-grow: 1;
 }
 
 ul {
