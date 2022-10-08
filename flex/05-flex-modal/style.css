@@ -23,10 +23,6 @@ body {
   padding: 15px;
 }
 
-.top {
-  display: flex;
-  justify-content: space-between;
-}
 
 .icon {
   color: royalblue;
@@ -39,6 +35,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-right: 15px;
 }
 
 .close-button {
