@@ -23,6 +23,10 @@ body {
   padding: 15px;
 }
 
+.header .text {
+  display: flex;
+  flex-flow: column nowrap;
+}
 
 .icon {
   color: royalblue;
