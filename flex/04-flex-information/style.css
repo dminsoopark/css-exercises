@@ -20,6 +20,7 @@ img {
   flex-flow: row nowrap;
   justify-content: space-around;
   align-items: center;
+  text-align: center;
 }
 
 .barberry {
@@ -51,9 +52,6 @@ img {
   align-items: center;
 }
 
-.text {
-  justify-content: center;
-}
 /* do not edit this footer */
 .footer {
   position: fixed;
