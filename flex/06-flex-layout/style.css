@@ -49,6 +49,7 @@ ul {
   flex-flow: row nowrap;
   justify-content: flex-start;
   gap: 10px;
+  margin-left: 0px;
 }
 
 .right-links {
