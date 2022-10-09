@@ -37,14 +37,13 @@ ul {
   list-style: none;
 }
 
-header {
-  height: 40px;
-}
-
+header,
 footer {
-  height: 25px;
+  display: flex;
+  flex-basis: 30px;
+  align-items: flex-start;
+  justify-content: space-around;
 }
-
 content {
-  flex: auto;
+  flex: 1;
 }
