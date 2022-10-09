@@ -11,6 +11,8 @@ body {
 
 img {
   width: 600px;
+  align-self: center;
+  flex: 0 0 auto;
 }
 
 button {
@@ -72,3 +74,5 @@ ul {
   display: flex;
   flex-basis: 90%;
 }
+
+
