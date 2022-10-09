@@ -58,7 +58,6 @@ body {
 
 .middle {
   flex-flow: column wrap;
-  margin: 15px;
 }
 
 button {
