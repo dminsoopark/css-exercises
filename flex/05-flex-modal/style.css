@@ -61,6 +61,10 @@ body {
   flex-flow: column wrap;
 }
 
+.text {
+  margin-top: 15px;
+}
+
 button {
   padding: 8px 16px;
   border-radius: 8px;
