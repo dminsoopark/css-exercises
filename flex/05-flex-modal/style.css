@@ -23,7 +23,7 @@ body {
   padding: 15px;
   display: flex;
   align-items: flex-start;
-  flex-grow: 1;
+  flex-grow: 0 0 auto;
 }
 
 .icon {
