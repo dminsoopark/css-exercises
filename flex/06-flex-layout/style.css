@@ -37,6 +37,12 @@ ul {
   list-style: none;
 }
 
+header {
+  display: flex;
+  align-items: center;
+  color: #eeeeee;
+}
+
 .header .left-links {
   display: flex;
   flex-flow: row nowrap;
