@@ -37,13 +37,7 @@ ul {
   list-style: none;
 }
 
-header,
-footer {
+.header .left-links {
   display: flex;
-  flex-basis: 30px;
-  align-items: flex-start;
-  justify-content: space-around;
-}
-content {
-  flex: 1;
+  flex-flow: row nowrap;
 }
