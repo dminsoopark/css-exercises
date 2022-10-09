@@ -40,7 +40,7 @@ ul {
 .header {
   display: flex;
   justify-content: space-between;
-  flex-basis: 50px;
+  flex-basis: 5%;
   align-items: center;
 }
 
@@ -65,4 +65,10 @@ ul {
   align-items: center;
   background-color: #eeeeee;
   justify-content: space-between;
+  flex-basis: 5%;
+}
+
+.content {
+  display: flex;
+  flex-basis: 90%;
 }
