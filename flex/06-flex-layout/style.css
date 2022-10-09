@@ -41,7 +41,6 @@ ul {
   display: flex;
   align-items: flex-start;
   flex-basis: 50px;
-  justify-content: space-around;
 }
 
 .left-links {
