@@ -6,6 +6,7 @@ body {
   overflow: hidden;
   font-family: Roboto, sans-serif;
   display: flex;
+  flex-flow: row nowrap;
 }
 
 img {
@@ -38,7 +39,6 @@ ul {
 
 header {
   display: flex;
-  flex-flow: row nowrap;
   align-items: flex-start;
 }
 
