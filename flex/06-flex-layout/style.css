@@ -37,7 +37,7 @@ ul {
   list-style: none;
 }
 
-header {
+.header {
   display: flex;
   align-items: center;
   color: #eeeeee;
