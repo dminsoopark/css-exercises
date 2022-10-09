@@ -40,8 +40,6 @@ ul {
 .header {
   display: flex;
   align-items: center;
-  background-color: #eeeeee;
-  align-content: flex-start;
 }
 
 .header .left-links {
@@ -55,5 +53,25 @@ ul {
   display: flex;
   flex-flow: row nowrap;
   justify-content: flex-end;
+  gap: 10px;
+}
+
+footer {
+  display: flex;
+  align-items: center;
+  background-color: #eeeeee;
+}
+
+.footer .left-links {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: flex-start;
+  gap: 10px;
+}
+
+.footer .right-links {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: flex-start;
   gap: 10px;
 }
