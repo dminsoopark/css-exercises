@@ -40,6 +40,7 @@ ul {
 .header {
   display: flex;
   align-items: center;
+  flex: 0 0 100%
 }
 
 .left-links {
@@ -61,17 +62,3 @@ ul {
   align-items: center;
   background-color: #eeeeee;
 }
-
-/* .footer .left-links {
-  display: flex;
-  flex-flow: row nowrap;
-  justify-content: flex-start;
-  gap: 10px;
-} */
-
-/* .footer .right-links {
-  display: flex;
-  flex-flow: row nowrap;
-  justify-content: flex-start;
-  gap: 10px;
-} */
