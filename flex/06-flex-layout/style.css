@@ -39,8 +39,9 @@ ul {
 
 .header {
   display: flex;
-  align-items: flex-start;
+  justify-content: space-between;
   flex-basis: 50px;
+  align-items: center;
 }
 
 .left-links {
