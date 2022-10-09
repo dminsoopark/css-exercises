@@ -40,7 +40,8 @@ ul {
 .header {
   display: flex;
   align-items: center;
-  flex: 0 auto;
+  flex-basis: 50px;
+  justify-content: space-around;
 }
 
 .left-links {
