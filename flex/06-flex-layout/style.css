@@ -42,7 +42,7 @@ ul {
   align-items: center;
 }
 
-.header .left-links {
+.left-links {
   display: flex;
   flex-flow: row nowrap;
   justify-content: flex-start;
@@ -62,12 +62,12 @@ ul {
   background-color: #eeeeee;
 }
 
-.footer .left-links {
+/* .footer .left-links {
   display: flex;
   flex-flow: row nowrap;
   justify-content: flex-start;
   gap: 10px;
-}
+} */
 
 .footer .right-links {
   display: flex;
