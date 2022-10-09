@@ -40,4 +40,13 @@ ul {
 .header .left-links {
   display: flex;
   flex-flow: row nowrap;
+  justify-content: flex-start;
+  gap: 10px;
+}
+
+.header .right-links {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: flex-end;
+  gap: 10px;
 }
