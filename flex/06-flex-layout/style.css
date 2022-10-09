@@ -49,7 +49,7 @@ ul {
   flex-flow: row nowrap;
   justify-content: flex-start;
   gap: 10px;
-  padding-left: 0%;
+  padding-left: 5%;
 }
 
 .right-links {
@@ -57,10 +57,12 @@ ul {
   flex-flow: row nowrap;
   justify-content: flex-end;
   gap: 10px;
+  padding-right: 5%;
 }
 
 .footer {
   display: flex;
   align-items: center;
   background-color: #eeeeee;
+  justify-content: space-between;
 }
