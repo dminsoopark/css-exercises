@@ -73,6 +73,7 @@ ul {
 .content {
   display: flex;
   flex-basis: 90%;
+  flex-direction: column;
 }
 
 
