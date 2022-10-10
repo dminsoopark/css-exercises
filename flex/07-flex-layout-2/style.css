@@ -40,7 +40,7 @@ body {
   display: flex;
   padding: 32px;
   width: 300px;
-  flex-direction: row wrap;
+  flex: 1;
 }
 
 a {
