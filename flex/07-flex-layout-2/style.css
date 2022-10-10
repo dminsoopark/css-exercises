@@ -15,7 +15,7 @@ body {
   background: #eee;
   color: darkmagenta;
   display: flex;
-  flex-direction: column-reverse;
+  align-items: flex-end;
 }
 
 .sidebar {
