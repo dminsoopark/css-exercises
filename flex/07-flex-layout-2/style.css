@@ -40,3 +40,8 @@ a {
 ul {
   list-style: none;
 }
+
+.middle {
+  display: flex;
+  flex-direction: column;
+}
