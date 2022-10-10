@@ -39,7 +39,7 @@ body {
   flex-flow: row wrap;
   justify-content: center;
   align-items: center;
-  gap: 16px;
+  gap: 20px;
 }
 
 .card {
