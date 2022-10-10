@@ -41,7 +41,6 @@ body {
   align-items: center;
   justify-content: space-around;
   padding: 32px;
-  margin: 10px;
 }
 
 .card {
@@ -52,6 +51,7 @@ body {
   width: 300px;
   height: 200px;
   padding: 1em;
+  margin: 10px;
 }
 
 a {
