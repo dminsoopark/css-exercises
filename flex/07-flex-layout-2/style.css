@@ -35,8 +35,7 @@ body {
 
 .cards {
   display: flex;
-  flex: 1;
-  flex-direction: row wrap;
+  flex-flow: row wrap;
 }
 
 .card {
