@@ -51,6 +51,7 @@ body {
   display: flex;
   width: 300px;
   align-content: flex-start;
+  padding: 20px;
 }
 
 a {
