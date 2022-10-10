@@ -33,6 +33,11 @@ body {
   font-size: 24px;
 }
 
+.cards {
+  display: flex;
+  flex: 1;
+  flex-direction: row wrap;
+}
 
 .card {
   border: 1px solid #eee;
@@ -41,7 +46,6 @@ body {
   display: flex;
   padding: 32px;
   width: 300px;
-  flex: 1;
 }
 
 a {
