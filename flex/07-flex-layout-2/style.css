@@ -39,8 +39,7 @@ body {
   flex-flow: row wrap;
   justify-content: center;
   align-items: center;
-  /* gap: 20px; */
-  justify-content: space-between;
+  justify-content: space-around;
   padding: 32px;
 }
 
