@@ -24,6 +24,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-top: auto;
 }
 
 .sidebar {
@@ -52,4 +53,5 @@ ul {
   display: flex;
   flex-direction: column;
   flex: 1;
+
 }
